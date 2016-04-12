@@ -8,11 +8,13 @@
 # Site settings
 title: DarkFox
 email: darkfox@darkfox.dk
-description: ''
+description: "Developer, geek, tinkerer, and furry."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darkfox.dk" # the base hostname & protocol for your site
 github_username:  DarkFox
 twitter_username: DarkFox
+facebook_username: DarkFoxDK
+linkedin_username: DarkFox
 timezone: 'Europe/Copenhagen'
 
 # Build settings
