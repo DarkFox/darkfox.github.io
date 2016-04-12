@@ -18,3 +18,6 @@ timezone: 'Europe/Copenhagen'
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+
+gems:
+  - jekyll-redirect-from

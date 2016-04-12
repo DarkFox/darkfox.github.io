@@ -12,8 +12,6 @@ excerpt: "Jeg har lavet et dansk Apple Alu keyboard layout til Windows XP.\r\n\r
   alt-gr+w giver \"&sum;\" og alt-gr+shift+8 giver \"{\" ).\r\n\r\nctrl, alt, cmd
   og F* taster, har dog stadig samme funktion som alm. Windows layout (ctrl+c = kopier
   etc. etc.)"
-wordpress_id: 57
-wordpress_url: http://darkfox.dk/?p=57
 date: '2009-07-12 17:37:28 +0000'
 date_gmt: '2009-07-12 16:37:28 +0000'
 categories:
