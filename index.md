@@ -3,7 +3,7 @@ layout: default
 ---
 <img align="left" style="margin: 5px 20px 0 0;" alt="Me" src="/assets/profile.jpg">
 
-# Me
+# Hi there!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac augue quam. Fusce vel tellus non augue luctus posuere. Etiam hendrerit volutpat lectus, porta pulvinar metus pellentesque ac. Vivamus non ultrices ex, sed hendrerit nunc. Praesent aliquam justo quis enim facilisis, rhoncus dapibus neque feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean non magna ac lorem interdum sagittis sed nec ipsum.
 
 <div style="clear: both;"></div>
@@ -18,14 +18,14 @@ Vivamus at augue neque. Sed id elementum metus, vitae mollis nulla. Sed lobortis
 
 <img align="left" style="margin: 5px 20px 0 0;" alt="Place2Book" src="/assets/place2book.png">
 
-Maecenas et nulla ex. Mauris cursus leo enim, ut finibus lectus dictum ut. Sed a tellus eget lacus lacinia placerat. Nunc sit amet lorem nec nisi efficitur tincidunt ut in ipsum. Vestibulum vel euismod mauris
+I joined Place2Book in early 2008 as an intern. As the project was in its infancy, I had the opportunity to be closely involved in key development decisions, surrounding platform and application structure. During my time there, I worked on most major parts of the application, continuing with my being hired full-time after my internship, until I left the company in 2011.
 
 <div style="clear: both;"></div>
 <br>
 
 <img align="right" style="margin: 5px 0 0 20px" alt="Fursuit" src="/assets/fursuit.jpg">
 
-# Also Me
+# Furry Alter Ego
 Aenean elementum nec elit a convallis. Proin ultrices odio suscipit quam fermentum dapibus. Etiam dui odio, egestas eu lobortis nec, vehicula sed urna. Maecenas interdum, dui eget blandit dapibus, turpis arcu imperdiet urna, nec commodo dui libero et felis. Sed eget metus nunc. Vivamus non lorem faucibus, pellentesque nibh a, auctor tortor. Proin ullamcorper turpis et massa ornare, quis pharetra risus accumsan. Fusce quis orci eget risus efficitur pellentesque. In enim leo, euismod id sem iaculis, mattis posuere tortor.
 
 <div style="clear: both;"></div>
