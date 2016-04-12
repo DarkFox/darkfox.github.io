@@ -16,7 +16,7 @@ categories:
 - Uncategorized
 tags: []
 comments: []
-redirect_from: "/aspergers"
+permalink: "/aspergers"
 ---
 
 N&aring;r du kigger p&aring; mig, ser du en helt almindelig ung mand.<br />
