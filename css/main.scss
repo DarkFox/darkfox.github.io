@@ -51,6 +51,20 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width:600px) {
+    img {
+        display:block;
+        float:none;
+        margin:0 auto 20px !important;
+    }
+}
+
 .social-media-list .fa {
     color: #828282;
 }
