@@ -52,17 +52,92 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 @media only screen and (max-width:600px) {
     img {
         display:block;
         float:none;
         margin:0 auto 20px !important;
     }
+}
+
+.profile-section {
+  height: 261px;
+  width: 100%;
+  display : flex;
+  align-items : center;
+}
+
+#profile {
+  justify-content: flex-start;
+}
+
+#profile a {
+  margin: 0 0 0 46px;
+}
+
+#furry {
+  justify-content: flex-end;
+}
+
+#furry a {
+  margin: 0 46px 0 0;
+}
+
+#linkedin {
+  color: #0077B5;
+}
+
+#facebook {
+  color: #3b5998;
+}
+
+#twitter {
+  color: #00aced;
+}
+
+#github {
+  color: #171515;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+img.bigdot {
+  height: 256px;
+  width: 256px;
+}
+
+img.left {
+  margin: 0 20px 0 0;
+}
+
+img.right {
+  margin: 0 0 0 20px;
+}
+
+.site-header {
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 56px;
+}
+
+.page-content {
+  padding-top: 130px;
+  padding-bottom: 140px;
+}
+
+.site-footer {
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 110px;
 }
 
 .social-media-list .fa {
