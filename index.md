@@ -37,7 +37,7 @@ layout: default
         </span>
       </a>
 
-      <img align="right" class="bigdot right" alt="Fursuit" src="/assets/fursuit-circle.png">
+      <img align="right" class="bigdot right" title="Photo &copy; 2013 Anthony Stewart" alt="Fursuit" src="/assets/fursuit-circle.png">
     </div>
   </div>
 </div>
