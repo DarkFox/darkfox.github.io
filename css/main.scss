@@ -68,7 +68,6 @@ html, body, .page-content, .wrapper {
   width: 100%;
   height: 80%;
   display: table;
-  text-align: center;
 }
 
 .dots-box {
@@ -101,6 +100,16 @@ html, body, .page-content, .wrapper {
 
 #furry a {
   margin: 0 46px 0 0;
+}
+
+.social-refs a {
+  max-height: 96px;
+  max-width: 96px;
+  overflow: hidden;
+}
+
+.social-refs a:hover {
+  text-decoration: none;
 }
 
 #linkedin {
