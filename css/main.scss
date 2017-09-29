@@ -60,11 +60,31 @@ $on-laptop:        800px;
     }
 }
 
-.profile-section {
-  height: 261px;
+html, body, .page-content, .wrapper {
+    height: 100%;
+}
+
+.front-page {
   width: 100%;
-  display : flex;
-  align-items : center;
+  height: 80%;
+  display: table;
+  text-align: center;
+}
+
+.dots-box {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  max-width: 740px;
+  min-height: 522px;
+}
+
+.profile-section {
+  min-height: 261px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 #profile {
@@ -99,11 +119,6 @@ $on-laptop:        800px;
   color: #171515;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 img.bigdot {
   height: 256px;
   width: 256px;
@@ -118,28 +133,7 @@ img.right {
 }
 
 .site-header {
-    background-color: #fff;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 56px;
-}
-
-.page-content {
-  padding-top: 130px;
-  padding-bottom: 140px;
-}
-
-.site-footer {
-    background-color: #fff;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 110px;
-}
-
-.social-media-list .fa {
-    color: #828282;
+  background-color: #fff;
+  height: 56px;
+  z-index: 10;
 }
