@@ -12,14 +12,14 @@ layout: default
           </span>
         </a>
 
-        <a rel="self" href="https://linkedin.com/in/{{ site.linkedin_username }}" id="linkedin" title="LinkedIn">
+        <a rel="self" href="https://linkedin.com/in/{{ site.linkedin_username }}" class="linkedin" title="LinkedIn">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
           </span>
         </a>
         
-        <a rel="self" href="{{ site.personal_mastodon_url }}" id="mastodon" title="Mastodon">
+        <a rel="self" href="{{ site.personal_mastodon_url }}" class="mastodon" title="Mastodon">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-brand fa-mastodon fa-stack-1x fa-inverse"></i>
@@ -32,14 +32,14 @@ layout: default
 
     <div class="profile-section" id="furry">
       <div class="social-refs">
-        <a rel="self" href="{{ site.furry_mastodon_url }}" id="mastodon" title="Mastodon">
+        <a rel="self" href="{{ site.furry_mastodon_url }}" class="mastodon" title="Mastodon">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-brand fa-mastodon fa-stack-1x fa-inverse"></i>
           </span>
         </a>
 
-        <a rel="self" href="https://www.facebook.com/{{ site.facebook_username }}" id="facebook" title="Facebook">
+        <a rel="self" href="https://www.facebook.com/{{ site.facebook_username }}" class="facebook" title="Facebook">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-facebook-official fa-stack-1x fa-inverse"></i>
