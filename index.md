@@ -6,7 +6,7 @@ layout: default
     <div class="profile-section" id="profile">
       <img align="left" class="bigdot left" alt="Me" src="/assets/profile-circle.png">
       <div class="social-refs">
-        <a rel="self" href="https://github.com/{{ site.github_username }}" id="github" title="GitHub">
+        <a rel="self" href="https://github.com/{{ site.github_username }}" class="github" title="GitHub">
           <span class="fa-stack fa-3x">
             <i class="fa-brands fa-stack-2x fa-github"></i>
           </span>
@@ -41,8 +41,7 @@ layout: default
 
         <a rel="self" href="https://www.facebook.com/{{ site.facebook_username }}" class="facebook" title="Facebook">
           <span class="fa-stack fa-3x">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa-brands fa-facebook-official fa-stack-1x fa-inverse"></i>
+            <i class="fa-brands fa-facebook fa-stack-2x"></i>
           </span>
         </a>
       </div>
