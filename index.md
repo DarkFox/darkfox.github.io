@@ -25,10 +25,10 @@ layout: default
 
     <div class="profile-section" id="furry">
       <div class="social-refs">
-        <a rel="self" href="https://twitter.com/{{ site.twitter_username }}" id="twitter" title="Twitter">
+        <a rel="self" href="{{ site.personal_mastodon_url }}" id="mastodon" title="Mastodon">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+            <i class="fa fa-brand fa-mastodon fa-stack-1x fa-inverse"></i>
           </span>
         </a>
 
