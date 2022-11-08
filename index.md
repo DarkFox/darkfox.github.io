@@ -18,6 +18,13 @@ layout: default
             <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
           </span>
         </a>
+        
+        <a rel="self" href="{{ site.personal_mastodon_url }}" id="mastodon" title="Mastodon">
+          <span class="fa-stack fa-3x">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-brand fa-mastodon fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
       </div>
     </div>
 
@@ -25,7 +32,7 @@ layout: default
 
     <div class="profile-section" id="furry">
       <div class="social-refs">
-        <a rel="self" href="{{ site.personal_mastodon_url }}" id="mastodon" title="Mastodon">
+        <a rel="self" href="{{ site.furry_mastodon_url }}" id="mastodon" title="Mastodon">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-brand fa-mastodon fa-stack-1x fa-inverse"></i>
