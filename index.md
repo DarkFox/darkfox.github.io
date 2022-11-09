@@ -6,20 +6,20 @@ layout: default
     <div class="profile-section" id="profile">
       <img align="left" class="bigdot left" alt="Me" src="/assets/profile-circle.png">
       <div class="social-refs">
-        <a rel="self" href="https://github.com/{{ site.github_username }}" class="github" title="GitHub">
+        <a rel="me" href="https://github.com/{{ site.github_username }}" class="github" title="GitHub">
           <span class="fa-stack fa-3x">
             <i class="fa-brands fa-stack-2x fa-github"></i>
           </span>
         </a>
 
-        <a rel="self" href="https://linkedin.com/in/{{ site.linkedin_username }}" class="linkedin" title="LinkedIn">
+        <a rel="me" href="https://linkedin.com/in/{{ site.linkedin_username }}" class="linkedin" title="LinkedIn">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa-brands fa-linkedin fa-stack-1x fa-inverse"></i>
           </span>
         </a>
         
-        <a rel="self" href="{{ site.personal_mastodon_url }}" class="mastodon" title="Mastodon">
+        <a rel="me" href="{{ site.personal_mastodon_url }}" class="mastodon" title="Mastodon">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa-brands fa-mastodon fa-stack-1x fa-inverse"></i>
@@ -32,14 +32,14 @@ layout: default
 
     <div class="profile-section" id="furry">
       <div class="social-refs">
-        <a rel="self" href="{{ site.furry_mastodon_url }}" class="mastodon" title="Mastodon">
+        <a rel="me" href="{{ site.furry_mastodon_url }}" class="mastodon" title="Mastodon">
           <span class="fa-stack fa-3x">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa-brands fa-mastodon fa-stack-1x fa-inverse"></i>
           </span>
         </a>
 
-        <a rel="self" href="https://www.facebook.com/{{ site.facebook_username }}" class="facebook" title="Facebook">
+        <a rel="me" href="https://www.facebook.com/{{ site.facebook_username }}" class="facebook" title="Facebook">
           <span class="fa-stack fa-3x">
             <i class="fa-brands fa-facebook fa-stack-2x"></i>
           </span>
