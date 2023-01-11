@@ -18,14 +18,6 @@ layout: default
             <i class="fa-brands fa-linkedin fa-stack-1x fa-inverse"></i>
           </span>
         </a>
-        
-        <a rel="me" href="{{ site.personal_mastodon_url }}" class="mastodon" title="Mastodon">
-          <span class="fa-stack fa-3x">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa-brands fa-mastodon fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-      </div>
     </div>
 
     <div style="clear: both;"></div>
