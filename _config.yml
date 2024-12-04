@@ -12,11 +12,9 @@ description: "Developer, geek, tinkerer, and furry."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darkfox.dk" # the base hostname & protocol for your site
 github_username:  DarkFox
-twitter_username: DarkFox
-facebook_username: DarkFoxDK
 linkedin_username: DarkFox
 furry_mastodon_url: https://tech.lgbt/@darkfox
-personal_mastodon_url: https://tech.lgbt/@TroelsEberhardt
+bluesky_username: rook.darkfox.dk
 timezone: 'Europe/Copenhagen'
 
 # Build settings
