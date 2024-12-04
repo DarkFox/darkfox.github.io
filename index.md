@@ -31,9 +31,10 @@ layout: default
           </span>
         </a>
 
-        <a rel="me" href="https://www.facebook.com/{{ site.facebook_username }}" class="facebook" title="Facebook">
+        <a rel="me" href="https://bsky.app/profile/{{ site.bluesky_username }}" class="bluesky" title="Bluesky">
           <span class="fa-stack fa-3x">
-            <i class="fa-brands fa-facebook fa-stack-2x"></i>
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa-brands fa-bluesky fa-stack-1x fa-inverse"></i>
           </span>
         </a>
       </div>
