@@ -23,4 +23,5 @@ permalink: /:year/:month/:day/:title/
 
 
 # Includes
-include: .well-known
+include:
+  - .well-known
