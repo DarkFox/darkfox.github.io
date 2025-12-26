@@ -30,13 +30,6 @@ layout: default
             <i class="fa-brands fa-mastodon fa-stack-1x fa-inverse"></i>
           </span>
         </a>
-
-        <a rel="me" href="https://bsky.app/profile/{{ site.bluesky_username }}" class="bluesky" title="Bluesky">
-          <span class="fa-stack fa-3x">
-            <i class="fa fa-circle fa-stack-2x"></i>
-            <i class="fa-brands fa-bluesky fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
       </div>
 
       <img align="right" class="bigdot right" title="Photo &copy; 2013 Anthony Stewart" alt="Fursuit" src="/assets/fursuit-circle.png">
