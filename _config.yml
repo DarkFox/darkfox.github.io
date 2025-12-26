@@ -6,15 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: DarkFox
+title: Rook DarkFox
 email: darkfox@darkfox.dk
 description: "Developer, geek, tinkerer, and furry."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darkfox.dk" # the base hostname & protocol for your site
 github_username:  DarkFox
-linkedin_username: DarkFox
-furry_mastodon_url: https://tech.lgbt/@darkfox
-bluesky_username: rook.darkfox.dk
+linkedin_username: mariaeberhardt
+furry_mastodon_url: https://bark.lgbt/@rook
 timezone: 'Europe/Copenhagen'
 
 # Build settings
