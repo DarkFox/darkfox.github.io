@@ -1,20 +1,20 @@
 {
-  "subject": "acct:darkfox@tech.lgbt",
-  "aliases": ["https://tech.lgbt/@darkfox", "https://tech.lgbt/users/darkfox"],
+  "subject": "acct:rook@bark.lgbt",
+  "aliases": ["https://bark.lgbt/@rook", "https://bark.lgbt/users/rook"],
   "links": [
     {
       "rel": "http://webfinger.net/rel/profile-page",
       "type": "text/html",
-      "href": "https://tech.lgbt/@darkfox"
+      "href": "https://bark.lgbt/@rook"
     },
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://tech.lgbt/users/darkfox"
+      "href": "https://bark.lgbt/users/rook"
     },
     {
       "rel": "http://ostatus.org/schema/1.0/subscribe",
-      "template": "https://tech.lgbt/authorize_interaction?uri={uri}"
+      "template": "https://bark.lgbt/authorize_interaction?uri={uri}"
     }
   ]
 }
