@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darkfox.dk" # the base hostname & protocol for your site
 github_username:  DarkFox
 linkedin_username: mariaeberhardt
-furry_mastodon_url: https://bark.lgbt/@rook
+furry_mastodon_url: https://tech.lgbt/@darkfox
 timezone: 'Europe/Copenhagen'
 
 # Build settings
