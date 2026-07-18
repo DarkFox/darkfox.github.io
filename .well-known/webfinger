@@ -1,6 +1,6 @@
 {
   "subject": "acct:darkfox@tech.lgbt",
-  "aliases": ["https://tech.lgbt/@darkfox", "https://tevh.lgbt/users/darkfox"],
+  "aliases": ["https://tech.lgbt/@darkfox", "https://tech.lgbt/users/darkfox"],
   "links": [
     {
       "rel": "http://webfinger.net/rel/profile-page",
