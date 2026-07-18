@@ -14,6 +14,7 @@ url: "http://darkfox.dk" # the base hostname & protocol for your site
 github_username:  DarkFox
 linkedin_username: mariaeberhardt
 furry_mastodon_url: https://tech.lgbt/@darkfox
+bluesky_username: darkfox.dk
 timezone: 'Europe/Copenhagen'
 
 # Build settings
